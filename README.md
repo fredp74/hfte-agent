@@ -67,7 +67,7 @@ Many brokers restrict or prohibit latency arbitrage. Read your broker's terms be
 
 ## Need it done for you?
 
-If you would rather not set this up yourself, Nexus HFTE offers installation, configuration and supervision as a service. It is tooling and setup work, not trading recommendations, and no return is promised. Contact: <https://algotradingresearch.com>.
+If you would rather not set this up yourself, We offers installation, configuration and supervision as a service. It is tooling and setup work, not trading recommendations, and no return is promised. Contact: <https://algotradingresearch.com>.
 
 ## Trademarks
 
