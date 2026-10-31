@@ -1,0 +1,18 @@
+# build output
+target/
+# binaries and archives
+*.exe
+*.dll
+*.zip
+# local runtime files: never commit
+hfte-config.json
+*.env
+.env
+catalog_*.txt
+*.log
+# editor and backup leftovers
+*.bak*
+*.orig
+*.swp
+.vscode/
+.idea/

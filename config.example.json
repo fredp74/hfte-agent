@@ -1,0 +1,17 @@
+{
+  "ver": 1,
+  "entry": { "min_gap_pts": 15, "cooldown_ms": 4000, "max_slow_spread_pts": 30 },
+  "size": { "lots": 0.01 },
+  "exit": {
+    "tp_pts": 0,
+    "sl_pts": 150,
+    "trail_start_pts": 0,
+    "trail_dist_pts": 0,
+    "conv_pts": 3,
+    "min_life_ms": 0,
+    "max_life_ms": 5000,
+    "sl_ignores_min_life": true
+  },
+  "exec": { "dev_pts": 20, "close_retries": 3 },
+  "risk": { "stale_ms": 5000, "max_positions": 5, "daily_loss": 0 }
+}

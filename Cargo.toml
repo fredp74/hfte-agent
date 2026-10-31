@@ -1,0 +1,19 @@
+[package]
+name = "hfte-agent"
+version = "0.3.0"
+edition = "2021"
+description = "Experimental local gap detector and automatic-exit agent (TCP, localhost only)"
+license = "MIT"
+repository = "https://github.com/fredp74/hfte-agent"
+authors = ["Algotradingresearch"]
+
+[dependencies]
+serde_json = "1"
+crossbeam-channel = "0.5"
+core_affinity = "0.8"
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+codegen-units = 1
+panic = "abort"
