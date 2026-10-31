@@ -1,4 +1,4 @@
-# hfte-agent
+# HFTE-agent
 
 Experimental local agent. It compares a fast price feed with a slow trading account, raises a signal when a gap opens, and, only if you enable it, sends an order to the slow account and closes it automatically.
 
